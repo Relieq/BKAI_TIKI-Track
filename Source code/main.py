@@ -451,7 +451,7 @@ if __name__ == '__main__':
 
     # Tính toán hàm mục tiêu
     '''F1, F2 = calculate_objective(trucks, distances)
-    F = 10000 * F1 + F2
+    F = 100000 * F1 + F2
     print(f'OBJECTIVE {F}')'''
 
     # Xuất kết quả
